@@ -1,0 +1,290 @@
+{
+  "IcoMoonType": "selection",
+  "icons": [
+    {
+      "icon": {
+        "paths": [
+          "M1024 384h-384l143.53-143.53c-72.53-72.526-168.96-112.47-271.53-112.47s-199 39.944-271.53 112.47c-72.526 72.53-112.47 168.96-112.47 271.53s39.944 199 112.47 271.53c72.53 72.526 168.96 112.47 271.53 112.47s199-39.944 271.528-112.472c6.056-6.054 11.86-12.292 17.456-18.668l96.32 84.282c-93.846 107.166-231.664 174.858-385.304 174.858-282.77 0-512-229.23-512-512s229.23-512 512-512c141.386 0 269.368 57.326 362.016 149.984l149.984-149.984v384z"
+        ],
+        "tags": [
+          "spinner",
+          "loading",
+          "loading-wheel",
+          "refresh",
+          "repeat",
+          "busy",
+          "wait",
+          "arrow"
+        ],
+        "defaultCode": 59780,
+        "grid": 16,
+        "attrs": []
+      },
+      "attrs": [],
+      "properties": {
+        "ligatures": "spinner11, loading12",
+        "name": "spinner11",
+        "order": 43,
+        "id": 133,
+        "prevSize": 32,
+        "code": 59780
+      },
+      "setIdx": 2,
+      "setId": 1,
+      "iconIdx": 131
+    },
+    {
+      "icon": {
+        "paths": [
+          "M1024 397.050l-353.78-51.408-158.22-320.582-158.216 320.582-353.784 51.408 256 249.538-60.432 352.352 316.432-166.358 316.432 166.358-60.434-352.352 256.002-249.538zM512 753.498l-223.462 117.48 42.676-248.83-180.786-176.222 249.84-36.304 111.732-226.396 111.736 226.396 249.836 36.304-180.788 176.222 42.678 248.83-223.462-117.48z"
+        ],
+        "tags": [
+          "star-empty",
+          "rate",
+          "star",
+          "favorite",
+          "bookmark"
+        ],
+        "defaultCode": 59863,
+        "grid": 16,
+        "attrs": []
+      },
+      "attrs": [],
+      "properties": {
+        "ligatures": "star-empty, rate",
+        "name": "star-empty",
+        "order": 39,
+        "id": 216,
+        "prevSize": 32,
+        "code": 59863
+      },
+      "setIdx": 2,
+      "setId": 1,
+      "iconIdx": 214
+    },
+    {
+      "icon": {
+        "paths": [
+          "M755.188 64c-107.63 0-200.258 87.554-243.164 179-42.938-91.444-135.578-179-243.216-179-148.382 0-268.808 120.44-268.808 268.832 0 301.846 304.5 380.994 512.022 679.418 196.154-296.576 511.978-387.206 511.978-679.418 0-148.392-120.43-268.832-268.812-268.832z"
+        ],
+        "tags": [
+          "heart",
+          "like",
+          "love",
+          "favorite"
+        ],
+        "defaultCode": 59866,
+        "grid": 16,
+        "attrs": []
+      },
+      "attrs": [],
+      "properties": {
+        "ligatures": "heart, like",
+        "name": "heart",
+        "order": 41,
+        "id": 219,
+        "prevSize": 32,
+        "code": 59866
+      },
+      "setIdx": 2,
+      "setId": 1,
+      "iconIdx": 217
+    },
+    {
+      "icon": {
+        "paths": [
+          "M192 128l640 384-640 384z"
+        ],
+        "tags": [
+          "play",
+          "player"
+        ],
+        "defaultCode": 59932,
+        "grid": 16,
+        "attrs": []
+      },
+      "attrs": [],
+      "properties": {
+        "ligatures": "play3, player8",
+        "name": "play3",
+        "order": 37,
+        "id": 285,
+        "prevSize": 32,
+        "code": 59932
+      },
+      "setIdx": 2,
+      "setId": 1,
+      "iconIdx": 283
+    },
+    {
+      "icon": {
+        "paths": [
+          "M128 128h320v768h-320zM576 128h320v768h-320z"
+        ],
+        "tags": [
+          "pause",
+          "player"
+        ],
+        "defaultCode": 59933,
+        "grid": 16,
+        "attrs": []
+      },
+      "attrs": [],
+      "properties": {
+        "ligatures": "pause2, player9",
+        "name": "pause2",
+        "order": 38,
+        "id": 286,
+        "prevSize": 32,
+        "code": 59933
+      },
+      "setIdx": 2,
+      "setId": 1,
+      "iconIdx": 284
+    },
+    {
+      "icon": {
+        "paths": [
+          "M512 864v-320l-320 320v-704l320 320v-320l352 352z"
+        ],
+        "tags": [
+          "forward",
+          "player"
+        ],
+        "defaultCode": 59936,
+        "grid": 16,
+        "attrs": []
+      },
+      "attrs": [],
+      "properties": {
+        "ligatures": "forward3, player12",
+        "name": "forward3",
+        "order": 36,
+        "id": 289,
+        "prevSize": 32,
+        "code": 59936
+      },
+      "setIdx": 2,
+      "setId": 1,
+      "iconIdx": 287
+    },
+    {
+      "icon": {
+        "paths": [
+          "M768 128v768h-128v-352l-320 320v-704l320 320v-352z"
+        ],
+        "tags": [
+          "next",
+          "player"
+        ],
+        "defaultCode": 59940,
+        "grid": 16,
+        "attrs": []
+      },
+      "attrs": [],
+      "properties": {
+        "ligatures": "next2, player16",
+        "name": "next2",
+        "order": 35,
+        "id": 293,
+        "prevSize": 32,
+        "code": 59940
+      },
+      "setIdx": 2,
+      "setId": 1,
+      "iconIdx": 291
+    },
+    {
+      "icon": {
+        "paths": [
+          "M0 64h1024v128h-1024zM192 256h640v128h-640zM192 640h640v128h-640zM0 448h1024v128h-1024zM0 832h1024v128h-1024z"
+        ],
+        "tags": [
+          "paragraph-center",
+          "wysiwyg",
+          "align-center",
+          "center"
+        ],
+        "defaultCode": 60024,
+        "grid": 16,
+        "attrs": []
+      },
+      "attrs": [],
+      "properties": {
+        "ligatures": "paragraph-center, wysiwyg26",
+        "name": "paragraph-center",
+        "order": 42,
+        "id": 377,
+        "prevSize": 32,
+        "code": 60024
+      },
+      "setIdx": 2,
+      "setId": 1,
+      "iconIdx": 373
+    },
+    {
+      "icon": {
+        "paths": [
+          "M430.2 898c-169.6 16.8-316-60-327-171.2-11-111.4 117.6-215 287-231.8 169.6-16.8 316 60 326.8 171.2 11.2 111.4-117.4 215.2-286.8 231.8zM769.2 528.6c-14.4-4.4-24.4-7.2-16.8-26.2 16.4-41.2 18-76.6 0.2-102-33.2-47.4-124.2-45-228.4-1.2 0 0-32.8 14.2-24.4-11.6 16-51.6 13.6-94.6-11.4-119.6-56.6-56.6-207 2.2-336 131.2-96.4 96.2-152.4 198.8-152.4 287.4 0 169.2 217.2 272.2 429.6 272.2 278.4 0 463.8-161.8 463.8-290.2 0-77.8-65.4-121.8-124.2-140z",
+          "M954.2 218.6c-67.2-74.6-166.4-103-258-83.6v0c-21.2 4.6-34.6 25.4-30 46.4 4.6 21.2 25.2 34.6 46.4 30 65.2-13.8 135.6 6.4 183.4 59.4s60.8 125.2 40.2 188.4v0c-6.6 20.6 4.6 42.6 25.2 49.4 20.6 6.6 42.6-4.6 49.4-25.2v-0.2c28.8-88.4 10.6-190-56.6-264.6z",
+          "M850.8 312c-32.8-36.4-81.2-50.2-125.6-40.6-18.2 3.8-29.8 22-26 40.2 4 18.2 22 29.8 40 25.8v0c21.8-4.6 45.4 2.2 61.4 19.8 16 17.8 20.4 42 13.4 63.2v0c-5.6 17.6 4 36.8 21.8 42.6 17.8 5.6 36.8-4 42.6-21.8 14-43.4 5.2-93-27.6-129.2z",
+          "M439.6 696.6c-6 10.2-19 15-29.2 10.8-10.2-4-13.2-15.6-7.4-25.4 6-9.8 18.6-14.6 28.6-10.8 10 3.6 13.6 15 8 25.4zM385.4 765.8c-16.4 26.2-51.6 37.6-78 25.6-26-11.8-33.8-42.2-17.4-67.8 16.2-25.4 50.2-36.8 76.4-25.8 26.6 11.4 35.2 41.6 19 68zM447 580.6c-80.6-21-171.8 19.2-206.8 90.2-35.8 72.4-1.2 153 80.2 179.4 84.4 27.2 184-14.6 218.6-92.6 34.2-76.6-8.4-155.2-92-177z"
+        ],
+        "tags": [
+          "sina-weibo",
+          "brand",
+          "social"
+        ],
+        "defaultCode": 60058,
+        "grid": 16,
+        "attrs": []
+      },
+      "attrs": [],
+      "properties": {
+        "name": "sina-weibo",
+        "ligatures": "sina-weibo, brand20",
+        "order": 40,
+        "id": 411,
+        "prevSize": 32,
+        "code": 60058
+      },
+      "setIdx": 2,
+      "setId": 1,
+      "iconIdx": 407
+    }
+  ],
+  "height": 1024,
+  "metadata": {
+    "name": "icomoon"
+  },
+  "preferences": {
+    "showGlyphs": true,
+    "showQuickUse": true,
+    "showQuickUse2": true,
+    "showSVGs": true,
+    "fontPref": {
+      "prefix": "icon-",
+      "metadata": {
+        "fontFamily": "icomoon"
+      },
+      "metrics": {
+        "emSize": 1024,
+        "baseline": 6.25,
+        "whitespace": 50
+      },
+      "embed": false
+    },
+    "imagePref": {
+      "prefix": "icon-",
+      "png": true,
+      "useClassSelector": true,
+      "color": 0,
+      "bgColor": 16777215,
+      "classSelector": ".icon"
+    },
+    "historySize": 50,
+    "showCodes": true,
+    "gridSize": 16,
+    "showLiga": false
+  }
+}
